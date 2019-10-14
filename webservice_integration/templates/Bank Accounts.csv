@@ -1,0 +1,4 @@
+"ref_code","dep_field_ids","name","active","odoo_model_name","source_model","search_field","search_domain","priority","method_calls","update","create_active","hide_create_unique_field"
+"res.partner.bank_73_443095","res.partner_85_553573","Bank Accounts","True","res.partner.bank","res.partner.bank","","","","","False","True","False"
+"odoo_field","source_field","dependence_ref","unique","map_values","create_method","search_operator"
+"acc_number","acc_number","","True","False","before","|"

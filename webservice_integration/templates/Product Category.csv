@@ -1,0 +1,4 @@
+"ref_code","dep_field_ids","name","active","odoo_model_name","source_model","search_field","search_domain","priority","method_calls","update","create_active","hide_create_unique_field"
+"product.category_31_661074","product.product_64_988645","Product Category","True","product.category","product.category","","","","","False","True","False"
+"odoo_field","source_field","dependence_ref","unique","map_values","create_method","search_operator"
+"name","name","","True","False","together","|"

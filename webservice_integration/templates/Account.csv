@@ -1,0 +1,7 @@
+"ref_code","dep_field_ids","name","active","odoo_model_name","source_model","search_field","search_domain","priority","method_calls","update","create_active","hide_create_unique_field"
+"account.account_93_819766","res.partner_85_553573/account.move.line_12_271360","Account","True","account.account","account.account","","","","","False","True","False"
+"odoo_field","source_field","dependence_ref","unique","map_values","create_method","search_operator"
+"code","code","","True","False","before","|"
+"name","name","","False","False","before","|"
+"user_type_id","user_type","","False","False","before","|"
+"reconcile","reconcile","","False","False","before","|"
